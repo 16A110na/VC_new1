@@ -1,4 +1,5 @@
 First change for the feature branch
+The second one for the feature branch
 
 It's a human sign
 When things go wrong
